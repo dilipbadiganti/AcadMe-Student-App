@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "300644227899",
+    "firebase_url": "https://admin-of-acadme-default-rtdb.firebaseio.com",
+    "project_id": "admin-of-acadme",
+    "storage_bucket": "admin-of-acadme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300644227899:android:7843d2f945a1b663bff51e",
+        "android_client_info": {
+          "package_name": "com.finalproject.acadme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300644227899-akodf6ll5u2t3ghrn5nk3dvku9ri5pma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VNdj05U_tVMwuXInxoERopUEe3sSYI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300644227899-akodf6ll5u2t3ghrn5nk3dvku9ri5pma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300644227899:android:84bc1fa1d9041e98bff51e",
+        "android_client_info": {
+          "package_name": "com.finalproject.adminofacadme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300644227899-akodf6ll5u2t3ghrn5nk3dvku9ri5pma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VNdj05U_tVMwuXInxoERopUEe3sSYI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300644227899-akodf6ll5u2t3ghrn5nk3dvku9ri5pma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

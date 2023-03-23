@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AcadMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="bold" tools:ignore="ReferenceType">@font/poppinsbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/poppinsregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/poppinslight</string>
+
+
+    <string name="about_acadme">Welcome to ACAD.ME, your one-stop solution for college resources, activities, and the latest news and events to stay informed and engaged throughout your academic journey.</string>
+    <string name="about_aliet">"Andhra Loyola Institute of Engineering and Technology (ALIET) is managed and administered by the members of the Society of Jesus, also known as Jesuits, belonging to ‘Jesuit Province Society – Hyderabad’, covering both the states of Andhra Pradesh and Telangana. It was established in 2008 with the approval of Rev. Fr. Peter Hans Kolvenbach, the then Superior General of the Society of Jesus, and with the permission of Rev. Fr. Joseph Sebastian SJ, the then provincial of the Andhra Jesuit Province. The institution was finally set up under the leadership of Rev. Fr. Pothireddy Anthony SJ, the then provincial of the Andhra Jesuit Province and through the tireless efforts of Rev. Fr. Thainese SJ, the founding Director of ALIET. The institution, recognized by the Government of Andhra Pradesh and affiliated to JNTU Kakinada, was approved by AICTE, New Delhi, on 4th June 2008."</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="newsfeed">NewsFeed</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">About</string>
+    <string name="faculty">Faculty</string>
+    <string name="elibrary">eLibrary</string>
+    <string name="video_lectures">Video Lectures</string>
+    <string name="results">Results</string>
+    <string name="website">Website</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="developers">Developers</string>
+    <string name="trending">Trending</string>
+</resources>
