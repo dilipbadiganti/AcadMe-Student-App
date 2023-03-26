@@ -34,6 +34,17 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
+        //PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO PROJECT EXPO
 
         bottomNavigationView = findViewById(R.id.bottomNavigationView);
         navController = Navigation.findNavController(this, R.id.frame_layout);
@@ -73,20 +84,20 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.navigation_eLibrary:
                 startActivity(new Intent(this, EbookActivity.class));
                 break;
-            case R.id.navigation_video:
-                Toast.makeText(this, "Online lectures", Toast.LENGTH_SHORT).show();
-                break;
+//            case R.id.navigation_video:
+//                Toast.makeText(this, "Online lectures", Toast.LENGTH_SHORT).show();
+//                break;
             case R.id.navigation_results:
-                Toast.makeText(this, "Under Development!", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Results.class));
                 break;
             case R.id.navigation_website:
                 startActivity(new Intent(this, Website.class));
                 break;
             case R.id.navigation_feedback:
-                Toast.makeText(this, "RATE THIS APP", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Feedback.class));
                 break;
             case R.id.navigation_developer:
-                Toast.makeText(this, "Dilip, Satya Kiran, Rajesh", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(this, Developers.class));
                 break;
 
         }
